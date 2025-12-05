@@ -26,6 +26,3 @@ This project is designed to be hosted on GitHub Pages.
 2. Navigate to "Pages".
 3. Select the `main` branch as the source.
 4. Your site will be live at `https://<username>.github.io/<repo-name>/`.
-
-## Credits
-- Audio: "Anthem of Europe" (US Navy instrumental short version) from Wikimedia Commons.
